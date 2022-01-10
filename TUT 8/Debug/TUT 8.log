@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 8\TUT 8\Main.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 8\TUT 8\Main.cpp(59,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TUT 8.vcxproj -> C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 8\TUT 8\Debug\TUT 8.exe
